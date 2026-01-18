@@ -1,0 +1,4 @@
+id UUID PRIMARY KEY
+event_type VARCHAR
+metadata JSON
+created_at TIMESTAMP
